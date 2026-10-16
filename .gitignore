@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+logs/
+*.log
+etl_project/data/warehouse.db
+etl_project/data/pipeline.log
+etl_project/data/orders.csv
+etl_project/data/orders.csv.bak
